@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.appbar.AppBarLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:elevation="4dp"
+        android:minHeight="?actionBarSize"
+        android:orientation="vertical">
+
+        <ImageButton
+            android:id="@+id/menu"
+            style="@style/ToolbarButtonStyle"
+            android:contentDescription="@string/application_menu"
+            android:src="@drawable/ic_menu" />
+
+        <TextView
+            android:id="@+id/title"
+            style="@style/ToolbarTitleStyle"
+            android:layout_toEndOf="@id/menu"
+            android:text="@string/main" />
+
+    </RelativeLayout>
+</com.google.android.material.appbar.AppBarLayout>

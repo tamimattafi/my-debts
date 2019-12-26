@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toolbar_button_size">48dp</dimen>
+    <dimen name="toolbar_button_margin">4dp</dimen>
+    <dimen name="toolbar_title_size">20sp</dimen>
+    <dimen name="toolbar_title_padding_top_bot">16dp</dimen>
+    <dimen name="toolbar_title_padding_sides">24dp</dimen>
+</resources>

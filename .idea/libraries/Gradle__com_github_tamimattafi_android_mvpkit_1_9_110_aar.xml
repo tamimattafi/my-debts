@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.tamimattafi:android-mvpkit:1.9.110@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/313d26cd8a58b8f82348ab2bdf9addfd/MvpKit-1.9.110/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/313d26cd8a58b8f82348ab2bdf9addfd/MvpKit-1.9.110/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tamimattafi/android-mvpkit/1.9.110/88aab49bf1604a719f26722c076b59c930294db/android-mvpkit-1.9.110-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

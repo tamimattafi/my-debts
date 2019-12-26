@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My Debts!</string>
+    <string name="application_menu">Application Menu</string>
+    <string name="main">Main</string>
+    <string name="my_debts">My Debts</string>
+    <string name="someone_owes_me">Someone Owes Me</string>
+    <string name="today_s_debts">Today\'s debts</string>
+    <string name="no_debts_hint">There are no debts to show. You can create some by clicking on the floating \'+\' button!</string>
+    <string name="no_debts">No Debts</string>
+    <string name="add_new_debt">Add New Debt</string>
+    <string name="i_am_the_debtor">I am the debtor</string>
+    <string name="creditor_name">Creditor Name</string>
+    <string name="return_until">Return Until:</string>
+    <string name="date_is_not_selected">Date is not selected</string>
+    <string name="sum">Sum</string>
+    <string name="save">Save</string>
+    <string name="required_field">This field is required</string>
+    <string name="add_debt_error">Something went wrong while trying to add a new debt. Please check the entered data and try again.</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="today">Today</string>
+    <string name="until">Until</string>
+
+    <string-array name="Currencies">
+        <item>RUB</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>NZD</item>
+        <item>EGP</item>
+    </string-array>
+</resources>

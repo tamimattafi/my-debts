@@ -1,0 +1,36 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="SplashTheme" parent="AppTheme">
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowBackground">@drawable/splash</item>
+    </style>
+
+    <style name="ToolbarButtonStyle" parent="AppTheme">
+        <item name="android:layout_width">@dimen/toolbar_button_size</item>
+        <item name="android:layout_height">@dimen/toolbar_button_size</item>
+        <item name="android:layout_margin">@dimen/toolbar_button_margin</item>
+        <item name="android:tint">@android:color/white</item>
+        <item name="android:background">?attr/selectableItemBackgroundBorderless</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+
+    <style name="ToolbarTitleStyle" parent="AppTheme">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:textSize">@dimen/toolbar_title_size</item>
+        <item name="android:paddingTop">@dimen/toolbar_title_padding_top_bot</item>
+        <item name="android:paddingBottom">@dimen/toolbar_title_padding_top_bot</item>
+        <item name="android:paddingStart">@dimen/toolbar_title_padding_sides</item>
+        <item name="android:paddingEnd">@dimen/toolbar_title_padding_sides</item>
+    </style>
+
+</resources>
